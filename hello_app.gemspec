@@ -12,7 +12,7 @@ Gem::Specification.new do |spec|
   spec.homepage     ="http://domainforproject.com/"
   spec.license      ="something"
 
-  spec.files        =['lib/my_app.rb']
+  spec.files        =['lib/my_app.rb'] #currently not using this
   spec.executables  =['bin/my_app']
   spec.test_files   =['tests/test_hello_app.rb']
   spec.require_paths  =["lib"]
